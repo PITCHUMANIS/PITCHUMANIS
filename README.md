@@ -13,4 +13,4 @@ How I think about enterprise AI: the LLM retrieves, drafts, explains, and ranks 
 
 Writing: Safe AI Adoption in Regulated Insurance & Banking
 
-📫 LinkedIn · Sydney, Australia
+📫 [LinkedIn](https://www.linkedin.com/in/pitchumani-sankaran/) · Sydney, Australia
